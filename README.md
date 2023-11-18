@@ -18,10 +18,10 @@ Para acceder al admin de django las credenciales son las siguientes:
 
 - API Task
     - Se tiene un CRUD basico sobre agregar tareas simples con un id, titulo, descripción y si esta terminada
-__
+___
 
 - API soccer league
-    - Categorias
-    - Jugadores
-    - Equipos
+    - Categorias `api/v1/categories`
+    - Jugadores `api/v1/players`
+    - Equipos `api/v1/teams`
     - Relación de tablas, cuando se consulta un jugador, trae información del equipo al que pertenece
