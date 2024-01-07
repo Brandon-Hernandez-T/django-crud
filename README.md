@@ -25,3 +25,8 @@ ___
     - Jugadores `api/v1/players`
     - Equipos `api/v1/teams`
     - Relación de tablas, cuando se consulta un jugador, trae información del equipo al que pertenece
+
+- API mercado kids
+    - Cliente papa `api/v1/client_papa`
+    - Cliente papa by name `api/v1/client_papa/search/?name=Brandon`
+    - Cliente nino `api/v1/client_nino`
