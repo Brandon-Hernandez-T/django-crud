@@ -22,4 +22,5 @@ urlpatterns = [
     path('api/v1/', include('task.urls')),
     path('api/v1/', include('soccer_league.urls')),
     path('api/v1/', include('mercado_kids.urls')),
+    path('api/v1/', include('tescha.urls')),
 ]

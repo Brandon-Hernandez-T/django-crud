@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'task',
     'soccer_league',
-    'mercado_kids'
+    'mercado_kids',
+    'tescha'
 ]
 
 MIDDLEWARE = [
